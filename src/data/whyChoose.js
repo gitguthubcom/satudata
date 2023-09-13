@@ -12,7 +12,7 @@ const whyChoose = {
   lists: [
     {
       id: 1,
-      icon: "icon-travel",
+      icon: "icon-travel-map",
       title: "Temu Kembali Data yang Mudah",
       description:
         "Pencarian 1 pintu untuk beberapa jenis data dengan hanya beberapa klik",
