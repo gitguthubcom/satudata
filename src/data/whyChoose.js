@@ -7,22 +7,29 @@ const whyChoose = {
   toggleText: " 1 Data Perpusnas",
   title: "1 Data Perpusnas",
   tagline: "Kenapa Harus Menggunakan",
-  description:
-    "There are many variations of passages of Lorem Ipsum is simply free text available in the market for you, but the majority have suffered alteration in some form.",
+  // description:
+  //   "There are many variations of passages of Lorem Ipsum is simply free text available in the market for you, but the majority have suffered alteration in some form.",
   lists: [
     {
       id: 1,
       icon: "icon-travel",
-      title: "Professional and Certified",
+      title: "Temu Kembali Data yang Mudah",
       description:
-        "Lorem ipsum is simply free text dolor sit but the majority have suffered amet, consectetur notted.",
+        "Pencarian 1 pintu untuk beberapa jenis data dengan hanya beberapa klik",
     },
     {
       id: 2,
       icon: "icon-travel-map",
-      title: "Get Instant Tour Bookings",
+      title: "Data Akurat & Mutakhir",
       description:
-        "Lorem ipsum is simply free text dolor sit but the majority have suffered amet, consectetur notted.",
+        "Data yang telah terkurasi dari sumber terpercaya",
+    },
+    {
+      id: 3,
+      icon: "icon-travel-map",
+      title: "Informasi Cepat",
+      description:
+        "Dapatkan penyajian data yang cepat tanpa proses birokrasi yang panjang",
     },
   ],
 };
