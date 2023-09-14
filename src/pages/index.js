@@ -1,6 +1,6 @@
-import AboutOne from "@/components/AboutOne/AboutOne";
-import BrandOne from "@/components/BrandOne/BrandOne";
-import DestinationsOne from "@/components/DestinationsOne/DestinationsOne";
+
+
+
 import GalleryOne from "@/components/GalleryOne/GalleryOne";
 import Layout from "@/components/Layout/Layout";
 import MainSlider from "@/components/MainSlider/MainSlider";
@@ -10,7 +10,7 @@ import CounterOne from "@/components/CounterOne/CounterOne";
 import PopularTours from "@/components/PopularTours/PopularTours";
 
 import TourSearch from "@/components/TourSearch/TourSearch";
-import VideoOne from "@/components/VideoOne/VideoOne";
+
 import WhyChoose from "@/components/WhyChoose/WhyChoose";
 import React from "react";
 
@@ -23,10 +23,9 @@ const Home = () => {
       <PopularTours />
       <VideoTwo />
       <CounterOne />
-      <DestinationsOne />
-      <AboutOne />
-      <VideoOne />
-      <BrandOne />
+      
+    
+      
 
       <GalleryOne />
       <WhyChoose />
