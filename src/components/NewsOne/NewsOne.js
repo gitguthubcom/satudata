@@ -23,7 +23,7 @@ const NewsOne = () => {
             <Col xl={3} lg={3}>
               <div className="news-one__top-right">
                 <Link href="/news-details">
-                  <a className="news-one__btn thm-btn">View All posts</a>
+                  <a className="news-one__btn thm-btn">Lihat semua data</a>
                 </Link>
               </div>
             </Col>

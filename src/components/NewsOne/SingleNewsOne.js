@@ -41,12 +41,12 @@ const SingleNewsOne = ({ news = {}, newsTwo = false }) => {
             </Link>
           </li>
           <li>
-            <Link href="/news-details">
+            {/* <Link href="/news-details">
               <a>
                 <i className="far fa-comments"></i>
                 {comments} Comments
               </a>
-            </Link>
+            </Link> */}
           </li>
         </ul>
         <h3 className="news-one__title">

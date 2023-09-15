@@ -1,13 +1,13 @@
 const newsOne = {
-  tagline: "From the blog post",
-  title: "News & Articles",
+  tagline: "Artikel",
+  title: "Berita Terbaru",
   newsData: [
     {
       id: 1,
       image: "news-one-img-1.jpg",
       date: "28 Aug",
       author: "Admin",
-      comments: 2,
+      // comments: 2,
       title: "Things to See and Do When Visiting Japan",
     },
     {
@@ -15,7 +15,7 @@ const newsOne = {
       image: "news-one-img-2.jpg",
       date: "28 Aug",
       author: "Admin",
-      comments: 2,
+      // comments: 2,
       title: "Journeys are Best Measured in New Friends",
     },
     {
@@ -23,7 +23,7 @@ const newsOne = {
       image: "news-one-img-3.jpg",
       date: "28 Aug",
       author: "Admin",
-      comments: 2,
+      // comments: 2,
       title: "Travel the Most Beautiful Places in the World",
     },
   ],
