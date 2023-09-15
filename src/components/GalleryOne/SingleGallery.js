@@ -9,11 +9,12 @@ const SingleGallery = ({ image = "" }) => {
         <div className="gallery-one__iocn">
           <a href={`@/images/gallery/${image}`}>
             <i className="fab fa-youtube"></i>
-            <h4>Biro SDM dan Umum</h4>
+            {/* <h4>Biro SDM dan Umum</h4> */}
           </a>
         </div>
       </div>
     </li>
+    
   );
 };
 
